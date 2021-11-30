@@ -1,0 +1,2 @@
+# UQ_CarSuspension
+Este repositório contém resultados, dados e códigos das simulações realizadas durante a disciplina de Uncertainty Quantification no ano de 2021 pelo professor Americo Cunha no Programa de Pós Graduação da Engenharia Mecânica da Universidade do Estado do Rio de Janeiro. O modelo matemático utilizado para o estudo foi o modelo de 1/4 do veiculo para representar a dinâmica de uma suspensão veicular sujeito ao perfil de estrada randomizado.
